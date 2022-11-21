@@ -1,3 +1,5 @@
+// This is written in Java
+
 package Game;
 import java.util.*;
 public class handCricket {
